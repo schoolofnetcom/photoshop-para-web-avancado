@@ -1,0 +1,21 @@
+Wagner:
+
+Olá caro aluno da School of net, eu gostaria que você desenvolvesse um design para o website da minha agência digital, RocketWeb. Nós oferecemos serviços
+de desenvolvimento web, design gráfico e marketing digital, contamos com você, abaixo algumas informações:
+
+O site deve ter:
+	Header
+	Tela inicial com uma frase de efeito e um botão para contrar serviços
+	Lista de clientes abaixo da tela inicial, alguns dos nossos clientes(Google, Microsoft, Netflix, Paypal, Youtube, Facebook, Amazon)
+	Grid de 12 colunas
+	Área de serviços
+	Portifólio com algumas imagens de nossos projetos
+	Vídeo sobre a agência
+	Footer simples
+
+Iremos te dar a paleta de cores e nossa logo.
+
+A e antes que me esqueça, pode utilizar qualquer fonte :D
+
+Até mais, estamos aguardando a entrega do projeto
+
